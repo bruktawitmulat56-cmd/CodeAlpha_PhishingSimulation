@@ -68,6 +68,10 @@ Single-stage attack: one email, direct link to the fake login page. (A multi-sta
 - [GoPhish](https://getgophish.com/) — open-source phishing framework
 - Gmail SMTP (test sending profile)
 
+## Related Work
+
+📘 This simulation was used as a case study in my official Task 2 submission: [CodeAlpha_PhishingAwareness](https://github.com/bruktawitmulat56-cmd/CodeAlpha_PhishingAwareness) — a phishing awareness training deck for end users.
+
 ## References
 - GoPhish Documentation — https://docs.gophish.io/
 - Google — Report phishing emails — https://support.google.com/mail/answer/8253
